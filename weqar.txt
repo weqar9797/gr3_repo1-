@@ -2,4 +2,8 @@ i m weqar
 i m MERN developer 
 I am from kashmir
 i m presuing MCA in kashmir university.
+
 i m adding a new line to the file on local so we push the file to the remote to see the changes
+
+hello  i doing some changes 
+
